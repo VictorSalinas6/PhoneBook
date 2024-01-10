@@ -1,0 +1,14 @@
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.exe
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.deps.json
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.runtimeconfig.json
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.dll
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\bin\Debug\net8.0\PhoneBookApp.pdb
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.AssemblyInfo.cs
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.dll
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\refint\PhoneBookApp.dll
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.pdb
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookApp.genruntimeconfig.cache
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\ref\PhoneBookApp.dll
