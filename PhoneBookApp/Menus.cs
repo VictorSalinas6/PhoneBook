@@ -75,6 +75,8 @@ namespace PhoneBookApp
             string text = "Thank you for using our services. GoodBye!";
             CenterBothText(text);
             Thread.Sleep(1000);
+
+            Environment.Exit(0);
         }
 
         public static void CenterText(string text)

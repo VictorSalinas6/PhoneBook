@@ -12,3 +12,4 @@ C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net
 C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookConsoleUI.pdb
 C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookConsoleUI.genruntimeconfig.cache
 C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\ref\PhoneBookConsoleUI.dll
+C:\Users\Brawl\OneDrive\Escritorio\repos\PhoneBookApp\PhoneBookApp\obj\Debug\net8.0\PhoneBookConsoleUI.sourcelink.json
